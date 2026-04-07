@@ -33,7 +33,7 @@ int multiply(int a, int b) {
 int divide(int a, int b) {
 
     // Type the correct logic
-    return 0;
+    return a / b;
 }
 
 // Implement me team leader
